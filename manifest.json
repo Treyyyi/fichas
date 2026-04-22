@@ -4,7 +4,7 @@
   "manifest_version": 1,
   "action": {
     "title": "Cicatrizes Ficha",
-    "icon": "/icon.svg",
+    "icon": "icon.svg",
     "popover": "ficha.html",
     "height": 700,
     "width": 460
