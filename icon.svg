@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" role="img" aria-label="Ícone da extensão Cicatrizes Ficha">
+  <rect x="6" y="6" width="88" height="88" rx="18" fill="#201916" stroke="#8f2f24" stroke-width="6"/>
+  <path d="M30 26h40v8H38v12h24v8H38v12h32v8H30z" fill="#f3e9df"/>
+  <path d="M68 18c-8 4-11 10-11 16 0 7 5 11 11 14 6-3 11-7 11-14 0-6-3-12-11-16z" fill="#b64637" opacity="0.95"/>
+</svg>
