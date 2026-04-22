@@ -5,14 +5,11 @@
   "author": "Seu Nome",
   "description": "Extensão inicial de ficha para o cenário Cicatrizes no Owlbear Rodeo.",
   "icon": "/icon.svg",
-  "actions": [
-    {
-      "id": "cicatrizes-ficha-action",
-      "name": "Cicatrizes Ficha",
-      "icon": "/icon.svg",
-      "popover": "/ficha.html",
-      "height": 700,
-      "width": 460
-    }
-  ]
+  "action": {
+    "title": "Cicatrizes Ficha",
+    "icon": "/icon.svg",
+    "popover": "/ficha.html",
+    "height": 700,
+    "width": 460
+  }
 }
