@@ -4,8 +4,8 @@
   "manifest_version": 1,
   "action": {
     "title": "Cicatrizes Ficha",
-    "icon": "icon.svg",
-    "popover": "ficha.html",
+    "icon": "https://treyyyi.github.io/fichas/icon.svg",
+    "popover": "https://treyyyi.github.io/fichas/ficha.html",
     "height": 700,
     "width": 460
   }
