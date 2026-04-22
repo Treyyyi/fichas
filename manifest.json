@@ -2,9 +2,6 @@
   "name": "Cicatrizes Ficha",
   "version": "1.0.0",
   "manifest_version": 1,
-  "author": "Seu Nome",
-  "description": "Extensão inicial de ficha para o cenário Cicatrizes no Owlbear Rodeo.",
-  "icon": "/icon.svg",
   "action": {
     "title": "Cicatrizes Ficha",
     "icon": "/icon.svg",
